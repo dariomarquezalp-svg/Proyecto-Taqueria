@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Backend Taqueria API
 Sistema de servidor desarrollado con Node.js, Express y MongoDB para la gestión de una taquería. Este proyecto incluye módulos de autenticación de usuarios y administración de productos mediante operaciones CRUD.
 
@@ -55,4 +55,4 @@ JSON Web Token
 =======
 # Proyecto-Taqueria
 Proyecto 4to Semestre para una Taquería.
->>>>>>> 1b5b6d3aa1626d1294ed599e9ee4c7af246cce80
+
